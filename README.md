@@ -1,4 +1,4 @@
-![Welcome to Het Prajapati's Github Profile](./imgs/banner/MHPanchal_Banner.png)
+![Header](./your-header-image-name.png)
 
 <h1 align="center">Hi 👋, I'm Het</h1>
 <!-- <h3 align="center">Seeking Freshers Role</h3> -->
