@@ -25,6 +25,8 @@
 ## 📚 Learning
 - PHP and WordPress  
 - JavaScript Advance Stuff
+- Data science
+- web scrapping
 
 ## Personal Blog
 -[CS Knowledge](https://csblogcontent.wordpress.com/)
