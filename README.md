@@ -28,7 +28,7 @@
 - Data science
 - web scrapping
 
-## Personal Blog
+## 👨‍💻 Personal Blog
 -[CS Knowledge](https://csblogcontent.wordpress.com/)
 
 ## 🎵 Spotify status
