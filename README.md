@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Het</h1>
-<!-- <h3 align="center">Seeking Freshers Role</h3> -->
+<h3 align="center">Organized and motivated B.E. Computer engineer eager to apply time management and organizational skills in various environments.Seeking entry-level opportunities in data science or web development field to expand skills while facilitating company growth.</h3>
 
 ![](https://komarev.com/ghpvc/?username=Hetprajapati12&label=PROFILE+VIEWS&color=orange)
 
