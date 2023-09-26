@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](.C:/Users/hetpr/Downloads/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Het</h1>
 <!-- <h3 align="center">Seeking Freshers Role</h3> -->
 
