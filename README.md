@@ -11,7 +11,7 @@
 - Like Python3,SQL,MongoDB,Django
 - Natural Language Processing and Machine Learning
 
-## Hobbies
+## 🌱 Hobbies
 - Solve programming problems at HackerRank
 - Play Video Games and Watching Web Series  
 - Read About Ancient Culture
