@@ -43,6 +43,7 @@ Click Here To Know Me
 <a href="https://myaccount.google.com/personal-info?hl=en/"><img src="https://img.icons8.com/color/48/undefined/gmail.png" alt="gmail"/></a>
 
 ![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hetprajapati12&theme=dark&show_icons=true)
+
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/Hetprajapati12/Image_Scrapper_chrome" target="_blank">
@@ -59,8 +60,8 @@ Click Here To Know Me
   <a href="https://github.com/Hetprajapati12/Heart_Disease_Prediction" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=FitFrenzy&theme=radical" width="49%" alt="FitFrenzy"/>
   </a>
- 
 </div>
+
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
 <br/>
 
