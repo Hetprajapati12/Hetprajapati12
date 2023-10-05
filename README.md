@@ -44,28 +44,8 @@ Click Here To Know Me
 
 ![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hetprajapati12&theme=dark&show_icons=true)
 
-<div align="center">
-  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/Hetprajapati12/Image_Scrapper_chrome" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=EasyBooking&theme=radical" width="49%" alt="EasyBooking"/>
-  </a>
-  <a href="https://github.com/Hetprajapati12/review-scrapper-aws-main" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=KherMovieShow&theme=radical" width="49%" height="50%" alt="KherMovieShow"/>
-  </a>
- 
- <a href="https://github.com/Hetprajapati12/Simple-Weatherwebsite" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=TastyAGDelights&theme=radical" width="49%" alt="TastyAGDelights"/>
-  </a>
- 
-  <a href="https://github.com/Hetprajapati12/Heart_Disease_Prediction" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=FitFrenzy&theme=radical" width="49%" alt="FitFrenzy"/>
-  </a>
-</div>
-
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
 <br/>
-
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love Connecting with Different People.</b> So If You Want to Say <b>Hi, I'll Be Happy to Meet You More!</b> :)</em>
 
