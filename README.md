@@ -45,7 +45,6 @@ Click Here To Know Me
 ![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hetprajapati12&theme=dark&show_icons=true)
 
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
-<br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love Connecting with Different People.</b> So If You Want to Say <b>Hi, I'll Be Happy to Meet You More!</b> :)</em>
 
