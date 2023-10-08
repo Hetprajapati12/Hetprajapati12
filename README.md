@@ -46,7 +46,6 @@ Click Here To Know Me
 
 
 
-
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/Hetprajapati12/Image_Scrapper_chrome" target="_blank">
@@ -58,10 +57,11 @@ Click Here To Know Me
   <a href="https://github.com/Hetprajapati12/Simple-Weatherwebsite" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=Simple-Weatherwebsite&theme=radical" width="49%" alt="Simple-Weatherwebsite"/>
   </a>
-  <a href="https://github.com/Hetprajapati12/Pythonprojects" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapti12&repo=Pythonprojects&theme=radical" width="49%" alt="Pythonprojects"/>
+  <a href="https://github.com/Hetprajapati12/ML_Project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapti12&repo=ML_Project&theme=radical" width="49%" alt="ML_Project"/>
   </a>
- </div>
+  
+</div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love Connecting with Different People.</b> So If You Want to Say <b>Hi, I'll Be Happy to Meet You More!</b> :)</em>
 
