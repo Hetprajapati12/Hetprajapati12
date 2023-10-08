@@ -51,14 +51,14 @@ Click Here To Know Me
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=Image_Scrapper_chrome&theme=radical" width="49%" alt="Image_Scrapper_chrome"/>
   </a>
   <a href="https://github.com/Hetprajapati12/tourism-website" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=tourism-website&theme=radical" width="49%" height="50%" alt="tourism-website"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=tourism-website&theme=radical" width="49%" alt="tourism-website"/>
   </a>
  
  <a href="https://github.com/Hetprajapati12/Simple-Weatherwebsite" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=Simple-Weatherwebsite&theme=radical" width="49%" alt="Simple-Weatherwebsite"/>
   </a>
  
-  <a href="https://github.com/Hetprajapati12/Pythonprojects" target="_blank">
+ <a href="https://github.com/Hetprajapati12/Pythonprojects" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapti12&repo=Pythonprojects&theme=radical" width="49%" alt="Pythonprojects"/>
   </a>
  
