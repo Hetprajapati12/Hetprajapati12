@@ -57,8 +57,8 @@ Click Here To Know Me
   <a href="https://github.com/Hetprajapati12/Simple-Weatherwebsite" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=Simple-Weatherwebsite&theme=radical" width="49%" alt="Simple-Weatherwebsite"/>
   </a>
-  <a href="https://github.com/Hetprajapati12/ML_Project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=ML_Project&theme=radical" width="49%" alt="ML_Project"/>
+  <a href="https://github.com/Hetprajapati12/tourism-website" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetprajapati12&repo=tourism-website&theme=radical" width="49%" alt="tourism-website"/>
   </a>
   
 </div>
