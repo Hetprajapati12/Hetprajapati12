@@ -26,10 +26,8 @@
 - PHP and WordPress  
 - JavaScript Advance Stuff
 - Data science
+- Machine learning
 - web scrapping
-
-## 👨‍💻 Personal Blog
--[CS Knowledge](https://csblogcontent.wordpress.com/)
 
 ## 🎵 Spotify status
 
