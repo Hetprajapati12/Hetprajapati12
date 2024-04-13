@@ -4,11 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=Hetprajapati12&label=PROFILE+VIEWS&color=orange)
 
 ## 💬 Ask me about
-- Backend web development (Node.js, PHP)
-- Frontend web development (Reactjs)
-- Like to work with JS, HTML, CSS 
+- Like to work with Machine learning and Data Science
 - Like DSA and C++ Stuff
-- Like Python3,SQL,MongoDB,Django
+- Like Python, SQL, MongoDB, Django, Powerbi
 - Natural Language Processing and Machine Learning
 
 ## 🌱 Hobbies
@@ -40,7 +38,7 @@ Click Here To Know Me
 <a href="https://www.linkedin.com/in/het-prajapati-b7016b186/"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
 <a href="https://myaccount.google.com/personal-info?hl=en/"><img src="https://img.icons8.com/color/48/undefined/gmail.png" alt="gmail"/></a>
 
-## :Quick stats about me
+## Quick stats about me
 ![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hetprajapati12&theme=dark&show_icons=true)
 
 
