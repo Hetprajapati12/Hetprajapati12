@@ -21,9 +21,10 @@
 - [Simple-Weatherwebsite](https://github.com/Hetprajapati12/Simple-Weatherwebsite)
 
 ## 📚 Learning
-- PHP and WordPress  
+- Pyhton ERP and Django
 - JavaScript Advance Stuff
 - Data science
+- Deep Learning
 - Machine learning
 - web scrapping
 
