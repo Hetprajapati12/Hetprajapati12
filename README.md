@@ -22,7 +22,6 @@
 
 ## 📚 Learning
 - Pyhton ERP and Django
-- JavaScript Advance Stuff
 - Data science
 - Deep Learning
 - Machine learning
