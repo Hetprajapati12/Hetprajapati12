@@ -21,7 +21,7 @@
 - [Simple-Weatherwebsite](https://github.com/Hetprajapati12/Simple-Weatherwebsite)
 
 ## 📚 Learning
-- Pyhton ERP and Django
+- Django
 - Data science
 - Deep Learning
 - Machine learning
